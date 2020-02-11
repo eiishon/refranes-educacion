@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    border: 3px black solid;
+    font-weight: bolder;
+}
+
+p.p1 {
+    border-top: double 20px red ;
+    border-left: double 20px red ;
+}
+
+p.p2 {
+    border-top: dashed 2px blue;
+    border-left: dashed 20px green;
+    border-bottom: dashed 20px blue;
+    border-right: dashed 20px green;
+}
+
+p.p3 {
+    border: gold double 20px;
+}
+
+p.p4 {
+    border-top: greenyellow 10px solid;
+    border-bottom: blue 10px solid;
+}
+
+p.p5 {
+    border-top:red dashed 20px;
+    border-right: black dashed 20px;
+    border-bottom: black dotted 20px;
+    border-left: black dashed 20px;
+}
+
+p.p6 {
+    border-top: black dotted 10px;
+    border-right: black dashed 20px;
+    border-bottom: black dashed 10px;
+    border-left: double red 20px;
+}
